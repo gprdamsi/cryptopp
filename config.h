@@ -19,6 +19,8 @@
 #ifndef CRYPTOPP_CONFIG_H
 #define CRYPTOPP_CONFIG_H
 
+#define CRYPTOPP_ENABLE_COMPLIANCE_WITH_FIPS_140_2 0
+
 #include "config_align.h"
 #include "config_asm.h"
 #include "config_cpu.h"
